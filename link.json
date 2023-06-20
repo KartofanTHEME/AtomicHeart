@@ -1,8 +1,8 @@
-[{"name":"Atomic Heart",
+{"name":"Atomic Heart",
 "genre_en":"Soundtrack","genre_ru":"Саундтреки","genre_de":"Soundtracks",
 "image":"https://kartofantheme.github.io/AtomicHeart/image.jpg",
 "albums":[
 	{"name":"vol1"},
 	{"name":"vol2"}
 ]
-}]
+}
