@@ -1,12 +1,4 @@
 {"name":"Atomic Heart",
-<<<<<<< HEAD
 "albums":"{\"name\":\"vol1\",\"release\":\"2023\"},{\"name\":\"vol2\",\"release\":\"2023\"}",
-=======
-"albums":"[
-	{"name":"vol1",
-	"release":"2023"},
-	{"name":"vol2",
-	"release":"2023"}]",
->>>>>>> f4b9dc6d79e1f90943ad9dc0c0cec6170a26cca3
 "genre_en":"Soundtrack","genre_ru":"Саундтреки","genre_de":"Soundtracks",
 "image":"https://kartofantheme.github.io/AtomicHeart/image.jpg"}
