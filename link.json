@@ -4,9 +4,13 @@
   "image":"https://kth-studio.github.io/AtomicHeart/image.jpg",
   "name":"Atomic Heart",
   "albums":[
-    {"name":"vol1",
-    "release":"2023",
+    {"name":"Atomic Heart, Vol.1",
+    "release":"24 february, 2023",
     "explicit":"no"},
-    {"name":"vol2",
-    "release":"2023"}]
+    {"name":"Atomic Heart, Vol.2",
+    "release":"2 june, 2023",
+    "explicit":"no"},
+    {"name":"Atomic Heart, Vol.3",
+    "release":"3 august, 2023",
+    "explicit":"no"}]
 }]
