@@ -1,5 +1,4 @@
-{
-  "albums": [{
+{"albums": [{
       "name": "vol1",
       "release": "2023"
     },
@@ -11,5 +10,4 @@
   "genre_en": "Soundtrack",
   "genre_ru": "Саундтреки",
   "image": "https://kth-studio.github.io/AtomicHeart/image.jpg",
-  "name": "Atomic Heart"
-}
+  "name": "Atomic Heart"}
