@@ -1,14 +1,12 @@
 {
-  "albums": [
-    {
+  "albums": [{
       "name": "vol1",
       "release": "2023"
     },
     {
       "name": "vol2",
       "release": "2023"
-    }
-  ],
+    }],
   "genre_de": "Soundtracks",
   "genre_en": "Soundtrack",
   "genre_ru": "Саундтреки",
