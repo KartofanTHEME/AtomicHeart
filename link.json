@@ -1,10 +1,17 @@
-{"name":"Atomic Heart",
-  "genre_en":"Soundtrack",
-  "genre_ru":"Саундтреки",
-  "genre_de":"Soundtracks",
- "albums":[{"name":"vol1",
-  "release":"2023",
-  "image":"https://kth-studio.github.io/AtomicHeart/image.jpg"},
-  {"name":"vol2",
-  "release":"2023"}],
-"image":"https://kth-studio.github.io/AtomicHeart/image.jpg"}
+{
+  "albums": [
+    {
+      "name": "vol1",
+      "release": "2023"
+    },
+    {
+      "name": "vol2",
+      "release": "2023"
+    }
+  ],
+  "genre_de": "Soundtracks",
+  "genre_en": "Soundtrack",
+  "genre_ru": "Саундтреки",
+  "image": "https://kth-studio.github.io/AtomicHeart/image.jpg",
+  "name": "Atomic Heart"
+}
