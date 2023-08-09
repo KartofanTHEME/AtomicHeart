@@ -3,5 +3,5 @@
   "genre_ru":"Саундтреки",
   "image":"https://kth-studio.github.io/AtomicHeart/image.jpg",
   "name":"Atomic Heart",
-  "albums":"[{\"name\":\"Atomic Heart, Vol.1\",\"release\":\"24 february, 2023\",\"explicit\":\"no\"},{\"name\":\"Atomic Heart, Vol.2\",\"release\":\"2 june, 2023\",\"explicit\":\"no\"},{\"name\":\"Atomic Heart, Vol.3\",\"release\":\"3 august, 2023\",\"explicit\":\"no\"}]"
+  "albums":"[{\"name\":\"Atomic Heart, Vol.1\",\"release_en\":\"24 february, 2023\",\"release_de\":\"24 february, 2023\",\"release_ru\":\"24 февраля, 2023\",\"time_en\":\"1h 14min 49sec\",\"time_de\":\"1h 14min 49sec\",\"time_ru\":\"1ч 14мин 49сек\",\"explicit\":\"no\",\"album\":\"Album\",\"image\":\"\"},{\"name\":\"Atomic Heart, Vol.2\",\"release_en\":\"2 june, 2023\",\"release_de\":\"2 february, 2023\",\"release_ru\":\"2 июня, 2023\",\"time_en\":\"1h 50min 50sec\",\"time_de\":\"1h 50min 50sec\",\"time_ru\":\"1ч 50мин 50сек\",\"explicit\":\"no\",\"album\":\"Album\",\"image\":\"\"},{\"name\":\"Atomic Heart, Vol.3\",\"release_en\":\"3 august, 2023\",\"release_de\":\"3 february, 2023\",\"release_ru\":\"3 августа, 2023\",\"time_en\":\"1h 11min 54sec\",\"time_de\":\"1h 11min 54sec\",\"time_ru\":\"1ч 11мин 54сек\",\"explicit\":\"no\",\"album\":\"Album\",\"image\":\"\"}]"
 }]
