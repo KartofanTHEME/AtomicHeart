@@ -3,4 +3,8 @@
 "previous":"https://kth-studio.github.io/AtomicHeart/Atomic%20Heart,%20Vol.1%20(Original%20Game%20Soundtrack)/Libertango/link.json",
 "next":"https://kth-studio.github.io/AtomicHeart/Atomic%20Heart,%20Vol.1%20(Original%20Game%20Soundtrack)/For%20the%20Good%20of%20Mankind/link.json",
 "artist":"Boogrov, Антон Михайлов, Atomic Heart",
-"name":"Tango"}]
+"artist_uri":"[{\"info_en\":\"Artist\",\"info_ru\":\"Артист\",\"info_de\":\"Interpret:in\",\"name\":\"Atomic Heart\",\"image\":\"https://kth-studio.github.io/AtomicHeart/image.jpg\",\"link\":\"https://kth-studio.github.io/AtomicHeart/link.json\"},{\"info_en\":\"Artist\",\"info_ru\":\"Артист\",\"info_de\":\"Interpret:in\",\"name\":\"Boogrov\"},{\"info_en\":\"Artist\",\"info_ru\":\"Артист\",\"info_de\":\"Interpret:in\",\"name\":\"Антон Михайлов\"}]",
+"album":"Atomic Heart, Vol.1 (Original Game Soundtrack)",
+"album_uri":"https://kth-studio.github.io/AtomicHeart/Atomic%20Heart,%20Vol.1%20(Original%20Game%20Soundtrack)/link.json",
+"name":"Tango",
+"explicit":"no"}]

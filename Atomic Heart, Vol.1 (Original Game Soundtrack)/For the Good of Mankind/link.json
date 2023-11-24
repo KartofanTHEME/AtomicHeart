@@ -3,4 +3,8 @@
 "previous":"https://kth-studio.github.io/AtomicHeart/Atomic%20Heart,%20Vol.1%20(Original%20Game%20Soundtrack)/Tango/link.json",
 "next":"https://kth-studio.github.io/AtomicHeart/Atomic%20Heart,%20Vol.1%20(Original%20Game%20Soundtrack)/PT-1X12/link.json",
 "artist":"Geoffplaysguitar, Atomic Heart",
-"name":"For the Good of Mankind"}]
+"artist_uri":"[{\"info_en\":\"Artist\",\"info_ru\":\"Артист\",\"info_de\":\"Interpret:in\",\"name\":\"Atomic Heart\",\"image\":\"https://kth-studio.github.io/AtomicHeart/image.jpg\",\"link\":\"https://kth-studio.github.io/AtomicHeart/link.json\"},{\"info_en\":\"Artist\",\"info_ru\":\"Артист\",\"info_de\":\"Interpret:in\",\"name\":\"Geoffplaysguitar\"}]",
+"album":"Atomic Heart, Vol.1 (Original Game Soundtrack)",
+"album_uri":"https://kth-studio.github.io/AtomicHeart/Atomic%20Heart,%20Vol.1%20(Original%20Game%20Soundtrack)/link.json",
+"name":"For the Good of Mankind",
+"explicit":"no"}]
