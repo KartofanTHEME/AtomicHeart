@@ -3,4 +3,8 @@
 "previous":"https://kth-studio.github.io/AtomicHeart/Atomic%20Heart,%20Vol.3%20(Original%20Game%20Soundtrack)/The%20Twins/link.json",
 "next":"https://kth-studio.github.io/AtomicHeart/Atomic%20Heart,%20Vol.3%20(Original%20Game%20Soundtrack)/Dark%20Room/link.json",
 "artist":"Atlaxsys, Atomic Heart",
-"name":"RGB"}]
+"artist_uri":"[{\"info_en\":\"Artist\",\"info_ru\":\"Артист\",\"info_de\":\"Interpret:in\",\"name\":\"Atomic Heart\",\"image\":\"https://kth-studio.github.io/AtomicHeart/image.jpg\",\"link\":\"https://kth-studio.github.io/AtomicHeart/link.json\"},{\"info_en\":\"Artist\",\"info_ru\":\"Артист\",\"info_de\":\"Interpret:in\",\"name\":\"Atlaxsys\"}]",
+"album":"Atomic Heart, Vol.3 (Original Game Soundtrack)",
+"album_uri":"https://kth-studio.github.io/AtomicHeart/Atomic%20Heart,%20Vol.3%20(Original%20Game%20Soundtrack)/link.json",
+"name":"RGB",
+"explicit":"no"}]

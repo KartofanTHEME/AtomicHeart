@@ -3,4 +3,8 @@
 "previous":"https://kth-studio.github.io/AtomicHeart/Atomic%20Heart,%20Vol.3%20(Original%20Game%20Soundtrack)/Electronica%20IM02/link.json",
 "next":"https://kth-studio.github.io/AtomicHeart/Atomic%20Heart,%20Vol.3%20(Original%20Game%20Soundtrack)/The%20Twins/link.json",
 "artist":"ScaryON, BassnPanda, Atomic Heart",
-"name":"M4D-5 Theme"}]
+"artist_uri":"[{\"info_en\":\"Artist\",\"info_ru\":\"Артист\",\"info_de\":\"Interpret:in\",\"name\":\"Atomic Heart\",\"image\":\"https://kth-studio.github.io/AtomicHeart/image.jpg\",\"link\":\"https://kth-studio.github.io/AtomicHeart/link.json\"},{\"info_en\":\"Artist\",\"info_ru\":\"Артист\",\"info_de\":\"Interpret:in\",\"name\":\"BassnPanda\"},{\"info_en\":\"Artist\",\"info_ru\":\"Артист\",\"info_de\":\"Interpret:in\",\"name\":\"ScaryON\"}]",
+"album":"Atomic Heart, Vol.3 (Original Game Soundtrack)",
+"album_uri":"https://kth-studio.github.io/AtomicHeart/Atomic%20Heart,%20Vol.3%20(Original%20Game%20Soundtrack)/link.json",
+"name":"M4D-5 Theme",
+"explicit":"no"}]
