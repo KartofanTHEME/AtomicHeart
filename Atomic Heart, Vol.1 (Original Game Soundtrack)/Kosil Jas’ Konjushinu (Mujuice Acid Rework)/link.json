@@ -5,6 +5,7 @@
 "artist_uri":"[{\"info_en\":\"Artist\",\"info_ru\":\"Артист\",\"info_de\":\"Interpret:in\",\"name\":\"Atomic Heart\",\"image\":\"https://kth-studio.github.io/AtomicHeart/image.jpg\",\"link\":\"https://kth-studio.github.io/AtomicHeart/link.json\"},{\"info_en\":\"Artist\",\"info_ru\":\"Артист\",\"info_de\":\"Interpret:in\",\"name\":\"Mujuice\"},{\"info_en\":\"Artist\",\"info_ru\":\"Артист\",\"info_de\":\"Interpret:in\",\"name\":\"Песняры\"}]",
 "album":"Atomic Heart, Vol.1 (Original Game Soundtrack)",
 "album_uri":"https://kth-studio.github.io/AtomicHeart/Atomic%20Heart,%20Vol.1%20(Original%20Game%20Soundtrack)/link.json",
-"name":"Kosil Jas’ Konjushinu (Mujuice Acid Rework)",
+"name":"Kosil Jas’ Konjushinu",
+"prefix":"(Mujuice Acid Rework)",
 "explicit":"no",
 "text":"[{\"text\":\"Касіў Ясь канюшiну\nКасіў Ясь канюшiну\nКасіў Ясь канюшiну\n\nЛа, ла-ла-ла-ла-ла\nЛа, ла-ла-ла-ла-ла\nЛа, ла-ла-ла-ла-ла\nЛа, ла-ла-ла-ла-ла\n\n\",\"written\":\"Владимир Мулявин\"}]"}]
